@@ -1,1 +1,2 @@
-# Primer-parciaal
+# Primer-parcia
+l
