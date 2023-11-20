@@ -1,2 +1,2 @@
-# Primer-parcia
+# Primer-parcial
 l
